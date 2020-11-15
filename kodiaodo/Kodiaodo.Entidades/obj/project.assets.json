@@ -3018,11 +3018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
       "projectName": "Kodiaodo.Entidades",
-      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

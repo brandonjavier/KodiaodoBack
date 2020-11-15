@@ -184,7 +184,7 @@ namespace Kodiaodo.Web.Controllers
             return Ok();
         }
 
-        // PUT: api/Enfermedades/Activar/1
+        // PUT: api/Enfermedades/Activar/2
 
         [HttpPut("[action]/ { id}")]
         public async Task<IActionResult> Activar([FromRoute] int id)

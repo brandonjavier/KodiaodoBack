@@ -3038,11 +3038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Datos\\Kodiaodo.Datos.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Datos\\Kodiaodo.Datos.csproj",
       "projectName": "Kodiaodo.Datos",
-      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Datos\\Kodiaodo.Datos.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Datos\\Kodiaodo.Datos.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Datos\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3064,8 +3064,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj"
+            "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj"
             }
           }
         }

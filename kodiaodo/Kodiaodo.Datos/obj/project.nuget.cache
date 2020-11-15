@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2lka6XKwYbMM94RIY20kTNE0aoJ5fXre748m2QA5+o2sVkNLXYEUh6Gye9LYq4Ex5yzlKdU18CCniLEaYEIArw==",
+  "dgSpecHash": "waZ7q+BdurDsAnkoeaPv8ihPL8wADyrgr8dWS/o+NyjFgZMHSoqNPSiaVpHLr6hcW3//MpZI5LidLBfExogk6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Datos\\Kodiaodo.Datos.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Datos\\Kodiaodo.Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.3\\microsoft.entityframeworkcore.2.2.3.nupkg.sha512",

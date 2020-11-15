@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kyYo7oVVP/OjtD8NB2QwAZg7v5eFJAK96ZfVp1/g3pvncfoE57TyEqCAY4voaYj0fWtfdWV5FgQeawMalUDQAg==",
+  "dgSpecHash": "kmfp2dXkmJ57SSQv1usws8absmwqagtxrTty0bqLLBF0LNN/SdNwUZLqFmcIvoGYUr2YTjY5bVpyTxGSvleoPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Web\\Kodiaodo.Web.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\BACKEND\\KODIAODO\\KodiaodoBack\\kodiaodo\\Kodiaodo.Web\\Kodiaodo.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.3\\microsoft.entityframeworkcore.2.2.3.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.3\\microsoft.entityframeworkcore.abstractions.2.2.3.nupkg.sha512",
