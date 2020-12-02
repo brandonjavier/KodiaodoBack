@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace Kodiaodo.Entidades.Almacen
 {
@@ -11,6 +12,8 @@ namespace Kodiaodo.Entidades.Almacen
         [StringLength(250)]
         public string descripcion{ get; set; }
         public bool condicion { get; set; }
+
+        public ICollection<Signo> signo { get; set; }
 
 
     }
